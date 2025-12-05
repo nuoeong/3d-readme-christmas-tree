@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🎄 3D Snowing Christmas Tree 🎄
@@ -14,13 +15,19 @@
 
 <br/>
 
-## 🧐 Motivation (제작 계기)
+## 🧐 Motivation
 
 GitHub 프로필을 꾸미기 위해 많은 분들이 사용하는 `github-readme-stats`나 `readme-typing-svg` 같은 인기 서비스들이 트래픽 과부하로 인해 이미지가 깨지거나 서버가 다운되는 현상을 종종 겪습니다.
+<div align="center">
+<img width="300" height="140" alt="image" src="https://github.com/user-attachments/assets/c184a8bf-2649-40dd-a613-2480a7015b65" />
+</div>
+<br/>
 
 **"내 프로필의 이미지가 엑박으로 뜨는 것을 더 이상 보고 싶지 않다!"**
 
-라는 생각으로, 외부 의존성 없이 **직접 Vercel에 호스팅하여 안정적으로 동작하는** 3D 크리스마스 트리를 만들게 되었습니다. 이제 서버 터짐 걱정 없이 여러분의 프로필에 영롱한 트리를 심어보세요! 🎄
+라는 생각으로, 외부 의존성 없이 **직접 Vercel에 호스팅하여 안정적으로 동작하는** 3D 크리스마스 트리를 만들게 되었습니다. <br />
+<br />
+**이제 서버 터짐 걱정 없이 여러분의 프로필에 영롱한 트리를 심어보세요! 🎄**
 
 <br/>
 
@@ -32,9 +39,9 @@ GitHub 프로필을 꾸미기 위해 많은 분들이 사용하는 `github-readm
 - **Lightweight**: 무거운 외부 라이브러리 없이 순수 **SVG + CSS**로만 구현하여 매우 빠릅니다.
 - **Stable**: 본인의 Vercel 계정에 직접 배포하므로 타 서비스의 서버 이슈에 영향받지 않습니다.
 
-<br/>
+---
 
-## 🛠 How to Deploy (나만의 트리 만들기)
+## 🎄 나만의 트리 만들기
 
 **Vercel**을 통해 **단 1분 만에** 무료로 배포할 수 있습니다.
 더 이상 외부 Vercel 주소를 쓰다가 리드미에 ❌엑박❌ 뜨는 일 없게 해요!
