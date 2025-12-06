@@ -80,7 +80,8 @@ GitHub 프로필을 꾸미기 위해 많은 분들이 사용하는 `github-readm
   <img src="https://(복사한-Vercel-주소)/api" alt="Christmas Tree" />
 </div>
 ```
-**Tip**: 만약 코드를 수정했는데 이미지가 바뀌지 않는다면, 주소 뒤에 ?v=1 처럼 숫자를 붙여주세요. GitHub 캐시 갱신용으로 붙이는 쿼리키이기 때문이에요! (예시: src=".../api?v=1")
+**Tip**: 만약 코드를 수정하셨다면? 주소 뒤에 ?v=1 처럼 숫자를 붙여주세요. 
+GitHub 캐시 갱신용으로 붙이는 쿼리키이기 때문에 수정할 때마다 갱신해주어야 잘 반영이 됩니다! (예시: src=".../api?v=12")
 
 ## 📝 License
 This project is licensed under the MIT License!
