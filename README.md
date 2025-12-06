@@ -83,6 +83,7 @@ GitHub 프로필을 꾸미기 위해 많은 분들이 사용하는 `github-readm
 **Tip**: 만약 코드를 수정했는데 이미지가 바뀌지 않는다면, 주소 뒤에 ?v=1 처럼 숫자를 붙여주세요. GitHub 캐시 갱신용으로 붙이는 쿼리키이기 때문이에요! (예시: src=".../api?v=1")
 
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License!
 
+### 도움이 되셨다면 star 하나 달아주시면 감사하겠습니다 .. ⭐️⭐️⭐️⭐️⭐️
 </div>
